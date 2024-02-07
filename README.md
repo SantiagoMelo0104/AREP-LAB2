@@ -21,24 +21,29 @@ git clone https://github.com/SantiagoMelo0104/AREP-LAB2.git
 Para este ejemplo usaremos el IDE de Intelij:
 
 + Una vez clonado, abrimos el proyecto en en IDE y ubicamos la siguiente clase **HttpServer**.
-  
-![image]()
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/3e632801-e63c-4ee0-ba36-03b62878b806)
+
 + Para ejecutar el proyecto podemos hacerlo presionando cualquiera de los recuadros a continuación
-  
-![image]()
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/8d452fb3-2d44-421b-b552-44a2479ce4b2)
+
 + A continuación dirijase al navegador de su preferencia y vaya a la siguiente dirección  ```http://localhost:35000/la_carpeta _del_tipo/el_archivo_que_se_desee  ```
-  + *Por ejemplo*  ``` http://localhost:35000/html/movies.html  ```
+  + *Por ejemplo*
   
-![image]()
+``` 
+http://localhost:35000/html/movies.html
+```
+
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/0578ea2f-e306-4b27-b47a-48e92078c85f)
+
 
 # Ejecución de Pruebas 🧪
 ### Desde el IDE : 
 - Para correr la pruebas nos dirigimos al IDE y localizamos una carpeta llamada **test**
-  
-![image]()
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/1a50b576-a8a3-496c-be49-e96cabd45dfa)
+
 - Del mismo modo que ejecutamos el servidor lo haremos con la clase de pruebas:
-  
-![image]()
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/c749b6cc-4846-4b8a-91a8-95989a09aaee)
+
 - Resultado✅
   
 ![image]()
@@ -64,21 +69,30 @@ En resumen, la arquitectura de la aplicación es una servidor web HTTP simple qu
 
 # Pruebas 
 #### - Al cargar un archivo html:
-  - http://localhost:35000/html/movies.html
-  
-![image]()
+  ```
+http://localhost:35000/html/movies.html
+  ```
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/0578ea2f-e306-4b27-b47a-48e92078c85f)
+
 #### - Al cargar un imagen:
-  - http://localhost:35000/imagenes/robot.jpg
-  
-![image]()
+  ```
+http://localhost:35000/imagenes/robot.jpg
+  ```
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/247fca9f-bde2-41f3-b6d6-0dea90f16b5d)
+
 #### - Al cargar un archivo css:
-  - http://localhost:35000/css/movies.css
-  
-![image]()
+```
+http://localhost:35000/css/movies.css
+```
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/a97eeede-95a7-40ad-b4ff-3f2e43f0fd91)
+
+
 #### - Al cargar un archivo js:
-  - http://localhost:35000/js/ApiConnection.js
-  
-![image]()
+```
+http://localhost:35000/js/ApiConnection.js
+```
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/8a9aa940-e040-4206-83ff-46199e0d517e)
+
 
 # Autor 
 Santiago Naranjo Melo [SantiagoMelo0104](https://github.com/SantiagoMelo0104)
