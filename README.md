@@ -45,8 +45,8 @@ http://localhost:35000/html/movies.html
 ![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/c749b6cc-4846-4b8a-91a8-95989a09aaee)
 
 - Resultado✅
-  
-![image]()
+![image](https://github.com/SantiagoMelo0104/AREP-LAB2/assets/123812833/28c02a27-b4ad-47fa-8f79-ff46559521de)
+
 
 ### Por consola seria de la siguiente forma:
 - Cambiar directorio
