@@ -64,17 +64,21 @@ En resumen, la arquitectura de la aplicación es una servidor web HTTP simple qu
 
 # Pruebas 
 #### - Al cargar un archivo html:
-- http://localhost:35000/html/movies.html
-![]()
+  - http://localhost:35000/html/movies.html
+  
+![image]()
 #### - Al cargar un imagen:
--http://localhost:35000/imagenes/robot.jpg
-![]()
+  - http://localhost:35000/imagenes/robot.jpg
+  
+![image]()
 #### - Al cargar un archivo css:
-- http://localhost:35000/css/movies.css
-![]()
+  - http://localhost:35000/css/movies.css
+  
+![image]()
 #### - Al cargar un archivo js:
-- http://localhost:35000/js/ApiConnection.js
-![]()
+  - http://localhost:35000/js/ApiConnection.js
+  
+![image]()
 
 # Autor 
 Santiago Naranjo Melo [SantiagoMelo0104](https://github.com/SantiagoMelo0104)
